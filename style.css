@@ -204,13 +204,17 @@ p{
 
 @media(max-width: 700px){
 .row{
-    flex-direction: column;
+  flex-direction: column;
  }
 }
   media screen and(max-width: 700px){
-     .contacts h4{
-      font-size: 24px;
-      }
+  .contacts h4{
+  font-size: 24px;
+  }
+}
+tr{
+  align-items: center;
+  background-color: green;
 }
 @media(max-width: 550px){
   #rows: 6r;
