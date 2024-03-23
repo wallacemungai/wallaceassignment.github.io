@@ -25,7 +25,7 @@ li a{
   left: 80%;
 }
 #banner{
-   background: url('3.JPG');
+   background: url('./images/3.jpg');
    background-size: cover;
    background-position: center;
    height: 100vh;
